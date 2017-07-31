@@ -93,19 +93,13 @@ QA环节，有人问jjc如何看大型项目源码，这个问题太麻烦了，
 
 大家在微信群或演讲里说的，整理如下
 
-
+- 小米科技招前端，技术栈Vue.js，react.js，react native，jquery，要求三到五年经验（有能力者忽略），简历投至 zhangyi8@xiaomi.com 注明来源 cnode 社区
 - 北京美图招 Python, Golang, Vue.js ，简历投至 yt@meitu.com  注明来源 cnode 社区
- 
 - 闪银奇异招前端，技术栈Vue.js，简历投至 wildnode@gmail.com 注明来源 cnode 社区
-
 - 在残酷的世界战斗，最让人热血沸腾的，是在漫长的征途中，寻找到并肩作战的人。美团点评酒旅招 Node.js, Vue.js , 简历投至 anchengjian@meituan.com, 注明来源 cnode 社区
-
 - 北京 凡普金科企业发展（上海）有限公司  招聘前端 方向vue.js,react和node.js等 简历投至lipei01@finupgroup.com   注明来源 cnode 社区
-
 - LeanCloud 招聘 Web 前端开发、Android 开发、技术支持（iOS 方向），可在 https://leancloud.cn/jobs/ 了解更多信息
-
 - Admaster 招聘 Node.js 以及前端，技术栈 linux / Node.js / mysql / React / Bootstrap 简历投至 zhaoxiongfei@admaster.com.cn 注明来源 cnode 社区
-
 - 17年应届毕业生，一年实习经验，工作中一个人负责前端，主要用vue.js做微信公众号，写微信小程序，自己的开源项目中用过react，node等，简历 http://wangyaxing.deercv.com/
 
 
