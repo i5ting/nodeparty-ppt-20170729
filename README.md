@@ -106,3 +106,7 @@ QA环节，有人问jjc如何看大型项目源码，这个问题太麻烦了，
 ## 欢迎大家也多多组织node party，社区会尽力帮忙
 
 如果有想组织node party，社区会尽力帮忙, i5ting@126.com
+
+## ppt下载
+
+https://github.com/i5ting/nodeparty-ppt-20170729
